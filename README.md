@@ -21,7 +21,7 @@ This digital compendium is the result of collaborative efforts from clinicians, 
 📂  **[2. Surgiscope Suturing](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/2.%20Surgiscope%20Suturing.pdf)**
 
 
-📂  **[Suturing Workshop ppt Dr.Manasi Birmole](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/Suturing%20Workshop%20Manasi.pptx)**
+  **[Suturing Workshop ppt Dr.Manasi Birmole](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/Suturing%20Workshop%20Manasi.pptx)**
 
 
 📂  **[3. Surgiscope Perianal](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/3.%20Surgoscope%20Perianal.pdf)**
