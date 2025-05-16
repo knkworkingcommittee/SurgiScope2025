@@ -16,5 +16,5 @@ This digital compendium is the result of collaborative efforts from clinicians, 
 ---
 📘 Hypertension - A Comprehensive Guide
 
-
+📂  **[1. Surgiscope Diabetic Foot](https://github.com/knkworkingcommittee/Hypertension_Notes/blob/main/1.%20Surgiscope%20Diabetic Foot.pdf)**
 
