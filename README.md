@@ -17,3 +17,23 @@ This digital compendium is the result of collaborative efforts from clinicians, 
 
 📂  **[1. Surgiscope Diabetic Foot](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/1.%20Surgiscope%20Diabetic%20Foot.pdf)**
 
+
+📂  **[2. Surgiscope Suturing](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/2.%20Surgiscope%20Suturing.pdf)**
+
+
+📂  **[3. Surgiscope Perianal](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/3.%20Surgoscope%20Perianal.pdf)**
+
+
+📂  **[4. Surgiscope Haematuria](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/4.%20Surgiscope%20Hematuria.pdf)**
+
+
+📂  **[5. Alarm Signs](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/5.%20Alarm%20Signs.pdf)**
+
+
+📂  **[6. Oral Lesions](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/6.%20Oral%20Lesions.pdf)**
+
+
+📂  **[3. Surgiscope Perianal](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/3.%20Surgoscope%20Perianal.pdf)**
+
+
+📂  **[3. Surgiscope Perianal](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/3.%20Surgoscope%20Perianal.pdf)**
