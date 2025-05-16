@@ -14,3 +14,6 @@
 This digital compendium is the result of collaborative efforts from clinicians, diagnosticians, and healthcare innovators, aiming to bridge the gap between investigation and intervention. Through *SurgiScope2025*, we hope to spark insightful discussions, promote knowledge-sharing, and encourage a more cohesive approach to diagnostics-led surgery — ultimately improving outcomes and enhancing the patient journey.
 
 ---
+📘 Hypertension - A Comprehensive Guide
+
+
