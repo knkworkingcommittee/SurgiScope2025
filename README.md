@@ -15,5 +15,5 @@ This digital compendium is the result of collaborative efforts from clinicians, 
 
 
 
-📂  **[1. Surgiscope Diabetic Foot](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/SurgiscopeDiabeticFoot.pdf)**
+📂  **[1. Surgiscope Diabetic Foot](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/1.%20Surgiscope%20Diabetic%20Foot.pdf)**
 
