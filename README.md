@@ -60,10 +60,10 @@ This digital compendium is the result of collaborative efforts from clinicians, 
 📂  **[1. Diabetic Foot and the Role of Homeopathy](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/1.%20Diabetic%20Foot%20and%20the%20Role%20of%20Homeopathy.pdf)**
 
 
-📂  **[2.Scope of Homeopathic Remedies in Perianal Conditions](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/2.%20Scope%20of%20Homeopathic%20Remedies%20in%20Perianal%20Conditions.pdf)**
+📂  **[2. Scope of Homeopathic Remedies in Perianal Conditions](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/2.%20Scope%20of%20Homeopathic%20Remedies%20in%20Perianal%20Conditions.pdf)**
 
 
-📂  **[3.Oral Lesions and Homeopathic Remedies](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/3.%20Oral%20Lesions%20and%20Homeopathic%20Remedies.pdf)**
+📂  **[3. Oral Lesions and Homeopathic Remedies](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/3.%20Oral%20Lesions%20and%20Homeopathic%20Remedies.pdf)**
 
 
 📂  **[4. Haematuria and Homeopathic Remedies](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/4.%20Haematuria%20and%20Homeopathic%20Remedies.pdf)**
