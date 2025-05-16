@@ -40,7 +40,14 @@ This digital compendium is the result of collaborative efforts from clinicians, 
 
 
 
-📂  **[3. Surgiscope Perianal](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/3.%20Surgoscope%20Perianal.pdf)**
+📂  **[1. Mastering Surgical Skills](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/1.%20Mastering%20Surgical%20Skills.pdf)**
 
 
-📂  **[3. Surgiscope Perianal](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/3.%20Surgoscope%20Perianal.pdf)**
+📂  **[2. Concept of Wounds from school of Ayurveda](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/2.%20Concepts%20of%20wound%20from%20school%20of%20Ayurveda.pdf)**
+
+
+📂  **[3. Perianal Concept of Ayurveda](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/3.%20Perianal%20concepts%20ayurveda.pdf)**
+
+
+📂  **[4. Haematuria from Ayurvedic View](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/4.%20Heamaturia%20from%20Ayurvedic%20view.pdf)**
+
