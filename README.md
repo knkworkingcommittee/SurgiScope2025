@@ -18,7 +18,7 @@ This digital compendium is the result of collaborative efforts from clinicians, 
 📂  **[1. Surgiscope Diabetic Foot](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/1.%20Surgiscope%20Diabetic%20Foot.pdf)**
 
 
-📂  **[2. Surgiscope Suturing](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/2.%20Surgiscope%20Suturing.pdf)**
+📂  **[2. Surgiscope Suturing](https://github.com/knkworkingcommittee/NiragasPaedia-2025/blob/main/2.%20Recurrent%20Wheezers%20.pdf)**
 
 
   **[Suturing Workshop ppt Dr.Manasi Birmole](https://github.com/knkworkingcommittee/SurgiScope2025/blob/main/Suturing%20Workshop%20Manasi.pptx)**
